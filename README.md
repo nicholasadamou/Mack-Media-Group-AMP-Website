@@ -9,7 +9,7 @@ Mack Media Group ⚡ Internship Project
 What is it?
 ------------
 
-It is a revaped version of [Mack Media Group](https://mackmediagroup.com/)'s Homepage built specifically using [`Google AMP`](https://www.ampproject.org/). 
+It is a revamped version of [Mack Media Group](https://mackmediagroup.com/)'s Homepage built specifically using [`Google AMP`](https://www.ampproject.org/). 
 
 **It was styled only for mobile devices, so viewing it on displays larger than the width of a smart-phone or tablet *is not recommended*.**
 
