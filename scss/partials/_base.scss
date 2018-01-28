@@ -1,0 +1,39 @@
+@import 'bourbon/bourbon';
+
+$green: #8dc63f;
+$silver: #eae9e9;
+$copy: #333333;
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+* {
+  @include box-sizing(border-box);
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+	font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.wrapper {
+	margin: 0 auto;
+  max-width: 90%;
+}

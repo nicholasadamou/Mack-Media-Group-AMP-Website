@@ -1,0 +1,132 @@
+.hero-btn {
+	display: block;
+	margin-top: 10px;
+	padding: 20px 50px;
+
+	text-decoration: none;
+	font-weight: 800;
+	font-size: 18px;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+
+	background: $green;
+	border-radius: 2px;
+
+	transition: ease-in-out 200ms;
+
+	&:hover {
+		background: $silver;
+		cursor: pointer;
+	}
+
+	@media (min-width: 1024px) {
+		padding: 20px;
+
+		font-size: 1.3em;
+	}
+
+	@media (min-width: 768px) {
+		font-size: 20px;
+	}
+}
+
+.hero-container {
+	@include clearfix;
+	padding: 100px 0;
+
+	background-image: url(http://mackmediagroup.com/wp-content/uploads/2015/02/mm-vid-bg-blk.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+	border-color: $silver;
+
+	@media (min-width: 1024px) {
+		padding: 150px 0;
+	}
+
+	@media (max-width: 420px) {
+		padding: 30px 0;
+		text-align: center;
+	}
+
+	@media (min-width: 375px) {
+		text-align: center;
+		padding: 0;
+	}
+
+	amp-youtube {
+		display: inline-block;
+		margin-right: 20px;
+
+		width: 480px;
+		height: 270px;
+
+		@media (min-width: 1024px) {
+			width: 70% !important;
+			height: 333px;
+		}
+
+		@media (min-width: 768px) {
+			width: 373px;
+			margin-right: 0;
+		}
+
+		@media (min-width: 420px) {
+			float: none;
+			width: 100%;
+			margin-top: 20px;
+		}
+
+		@media (min-width: 375px) {
+			float: none;
+			width: 100%;
+			margin-bottom: 40px;
+		}
+
+		@media (min-width: 320px) {
+			float: none;
+			width: 100%;
+			margin-top: 20px;
+		}
+	}
+
+	.hero-content {
+		display: inline-block;
+		max-width: 45%;
+
+		h1 {
+			color: white;
+			line-height: 1.7em;
+
+			@media (min-width: 1024px) {
+				font-size: 1.7em;
+			}
+		}
+
+		@media (min-width: 1024px) {
+			width: 42%;
+
+			font-size: 1.5em;
+		}
+
+		@media (max-width: 768px) {
+			max-width: 40%;
+			text-align: center;
+			margin-top: 10px;
+		}
+
+		@media (max-width: 420px) {
+			float: none;
+			max-width: 100%;
+		}
+
+		@media (min-width: 375px) {
+			float: none;
+			max-width: 100%;
+			margin: 20px;
+		}
+	}
+}
