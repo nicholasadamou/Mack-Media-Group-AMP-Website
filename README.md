@@ -1,4 +1,4 @@
-Mack Media Group ⚡ (AMP) Website Internship Project
+Mack Media Group ⚡ Internship Project
 -----
 
 ![logo](https://mackmediagroup.com/wp-content/uploads/2015/11/mack-logo-web.png)
