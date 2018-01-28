@@ -3,7 +3,7 @@ Mack Media Group ⚡ Internship Project
 
 ![logo](https://mackmediagroup.com/wp-content/uploads/2015/11/mack-logo-web.png)
 
-[What is it?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#what-is-it) / [Who is Mack Media Group?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#who-is-mack-media-group) / [Requirements](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#requirements) / [License](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#license)
+[What is it?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#what-is-it) / [Who is Mack Media Group?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#who-is-mack-media-group) / [Requirements](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#requirements) / [Preview Images](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#preview-images) / [License](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#license)
 
 What is it?
 ------------
@@ -34,6 +34,11 @@ Requirements
 This project requires [CodeKit](https://codekitapp.com/) for *MacOS* in order to compile and work properly.
 
 *CodeKit* is premium-software and thus, is not free and cost money. You can purchase it from their [Buy Now](https://codekitapp.com/purchase/) page.
+
+Preview Images
+------------
+
+Visit the [previews](previews) to see what the project looks like when compiled and opend in a browser. 
 
 License
 ------------
