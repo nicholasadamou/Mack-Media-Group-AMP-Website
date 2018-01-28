@@ -3,6 +3,8 @@ Mack Media Group ⚡ Internship Project
 
 ![logo](https://mackmediagroup.com/wp-content/uploads/2015/11/mack-logo-web.png)
 
+<img style="width: 25%" src="https://i.gyazo.com/4e1fcf7ccd606bc9b3db479fe3f5f1f4.png">
+<img style="width: 25%" src="https://i.gyazo.com/c1900362c97efd4ed1ac47fc68bdd188.png">
 
 [What is it?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#what-is-it) / [Who is Mack Media Group?](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#who-is-mack-media-group) / [Requirements](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#requirements) / [License](https://github.com/nicholasadamou/Mack-Media-Group-Internship-Project#license)
 
