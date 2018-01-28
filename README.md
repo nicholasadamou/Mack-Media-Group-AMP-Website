@@ -38,7 +38,7 @@ This project requires [CodeKit](https://codekitapp.com/) for *MacOS* in order to
 Preview Images
 ------------
 
-Visit the [previews](previews) to see what the project looks like when compiled and opened in a browser. 
+Visit the [previews directory](previews) to see what the project looks like when compiled and properly opened in a browser. 
 
 License
 ------------
