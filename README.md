@@ -18,7 +18,7 @@ As described by Google below, *Google AMP* is:
 
 *"The AMP Project is an open-source initiative aiming to make the web better for all. The project enables the creation of websites and ads that are consistently fast, beautiful and high-performing across devices and distribution platforms.(https://www.ampproject.org/)"*
 
-During my internship at *Mack Media*, I learned the process for making a website from start to finish and the marketing methods that professionals use to increase brand-awareness by using different SEO techniques. I was the lead developer of the AMP website where I used Google AMP pages to develop a user-friendly and wickedly fast home page for the agency.
+During my internship at *Mack Media*, I learned the process of making a website from start to finish and the marketing methods that professionals use to increase brand-awareness by using different SEO techniques. I was the lead developer of the AMP website where I used Google AMP pages to develop a user-friendly and wickedly fast home page for the agency.
 
 Who is *Mack Media Group*?
 ------------
