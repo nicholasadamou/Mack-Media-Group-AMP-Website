@@ -43,7 +43,7 @@ Visit the [previews directory](previews) to see what the project looks like when
 License
 ------------
 
-© 2018 Mack Media Group, LLC, Nicholas Adamou.
+© Mack Media Group, LLC, Nicholas Adamou.
 
 It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
 
